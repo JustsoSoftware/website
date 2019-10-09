@@ -6,3 +6,19 @@
 #main>section {
   text-align: left;
 }
+
+#leistungen,
+#galerie {
+  ul, ol {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    @media (min-width: 799px) {
+      li {
+        width: calc(33% - 10px);
+      }
+    }
+  }
+}
