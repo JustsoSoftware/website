@@ -14,7 +14,7 @@ order: 3
   - HR Rollenveränderung ermutigen
   - Konzepte hinter digitalen Buzzwords verstehen
   
-  [Kontakt](#contakt)
+  [Kontakt](#kontakt)
   
 - ### Agile Innovation und Lean-Startup Methoden
 
@@ -22,7 +22,7 @@ order: 3
   - Hands-on Einstieg in Design Thinking, Lean Startup, Agile Entwicklung
   - Agiles Projekt-Setup
 
-  [Kontakt](#contakt)
+  [Kontakt](#kontakt)
 
 - ### Personal Update: Digitale Kompetenzen erwerben
 
@@ -30,5 +30,5 @@ order: 3
   - Veränderte Schwerpunkte im Kompetenzmodell
   - Selbst Zugang zu benötigten Kompetenzen finden
   
-  [Kontakt](#contakt)
+  [Kontakt](#kontakt)
   
