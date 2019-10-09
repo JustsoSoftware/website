@@ -1,5 +1,4 @@
 ---
-title: Intro
 icon: fa-th
 order: 2
 ---
