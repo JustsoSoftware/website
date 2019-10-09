@@ -47,18 +47,15 @@ the dashes are enough
   background-color: white;
 }
 
-#header {
-  display: none;
-}
-
-#main, #footer {
-  margin-left: 0;
-}
-
-#main {
-  @media screen and (max-width: 1880px) and (min-width: 961px) {
+@media screen and (min-width: 961px) {
+  #header {
+    display: none;
     margin-left: 0;
   }
+}
+
+#footer {
+  margin-left: 0;
 }
 
 html, body {
