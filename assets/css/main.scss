@@ -1,9 +1,17 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+
+#
+Only the main Sass file needs front matter
+
+(
+the dashes are enough
+
+)
 ---
+
 @import "jekyll-theme-prologue";
 
-#main>section {
+#main > section {
   text-align: left;
 }
 
@@ -19,7 +27,8 @@
 
       > li {
         padding: 15px;
-        border: 1px solid #dddddd;
+        box-shadow: 0 0 5px #dddddd;
+        margin-bottom: 1em;
 
         @media (min-width: 799px) {
           width: calc(33% - 10px);
@@ -33,8 +42,8 @@
   display: none;
 }
 
-#main>section.shade-three, #main article.shade-three,
-#main>section.shade-four, #main article.shade-four {
+#main > section.shade-three, #main article.shade-three,
+#main > section.shade-four, #main article.shade-four {
   background-color: white;
 }
 
@@ -84,5 +93,9 @@ h1, h2, h3 {
 
 h3 {
   margin-bottom: 0.5em;
-  min-height: 3em;
+  min-height: 4em;
+}
+
+img {
+  max-width: 100%;
 }
