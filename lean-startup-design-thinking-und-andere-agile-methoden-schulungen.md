@@ -12,5 +12,4 @@ Agiles Projektmanagement (Scrum): Wachsenden Einblick und Veränderungen in Proj
 begrüßen.
 
 [Zurück](./)
-
 [Kontakt](./#kontakt)

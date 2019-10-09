@@ -14,5 +14,4 @@ anstehenden Veränderungen in der Arbeitswelt.
 Seminar: [https://www.haufe-akademie.de/22.63](https://www.haufe-akademie.de/22.63)
 
 [Zurück](./)
-
 [Kontakt](./#kontakt)

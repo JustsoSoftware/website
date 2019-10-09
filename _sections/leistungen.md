@@ -13,7 +13,6 @@ order: 3
   - Konzepte hinter digitalen Buzzwords verstehen
   
   [Mehr](hr-goes-digital-workshop)
-  
   [Kontakt](#kontakt)
   
 - ### Agile Innovation und Lean-Startup Methoden
@@ -23,7 +22,6 @@ order: 3
   - Agiles Projekt-Setup
 
   [Mehr](lean-startup-design-thinking-und-andere-agile-methoden-schulungen)
-
   [Kontakt](#kontakt)
 
 - ### Personal Update: Digitale Kompetenzen erwerben
@@ -32,5 +30,6 @@ order: 3
   - Veränderte Schwerpunkte im Kompetenzmodell
   - Selbst Zugang zu benötigten Kompetenzen finden
   
+  [Mehr](coaching-und-kick-off-von-digitalen-projekten)
   [Kontakt](#kontakt)
   
