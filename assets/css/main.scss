@@ -9,14 +9,14 @@
 
 #leistungen,
 #galerie {
-  ul, ol {
+  > ul, > ol {
     list-style: none;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 
     @media (min-width: 799px) {
-      li {
+      > li {
         width: calc(33% - 10px);
       }
     }
