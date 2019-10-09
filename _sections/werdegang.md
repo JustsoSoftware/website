@@ -1,7 +1,7 @@
 ---
 title: Werdegang
 icon: fa-user
-order: 4
+order: 3
 ---
 
 Der Schatz eines Arbeitslebens: Beziehungen und Erfahrungen.<br>

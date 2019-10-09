@@ -1,8 +1,15 @@
 ---
-title: 
-icon: fa-th
-order: 2
+title: Digital Wachsen
+cover-photo: assets/images/Digital-Kompetent-Hero-1.jpg
+cover-photo-alt: Digital Wachsen
+auto-header: none
+icon: fa-comment
+order: 1
 ---
+<header>
+  <h2>Digital Wachsen</h2>
+  <p>Impusle für die digitale Kompetenz</p>
+</header>
 
 ### Lernen, verlernen, neu lernen in der digitalen Transformation
 
