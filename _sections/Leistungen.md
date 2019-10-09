@@ -4,8 +4,6 @@ icon: fa-th
 order: 3
 ---
 
-## Leistungen
-
 - ### Digital HR Update
 
   - Workshopangebote
