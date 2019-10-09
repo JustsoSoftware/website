@@ -22,6 +22,8 @@ order: 3
   - Hands-on Einstieg in Design Thinking, Lean Startup, Agile Entwicklung
   - Agiles Projekt-Setup
 
+  [Mehr](lean-startup-design-thinking-und-andere-agile-methoden-schulungen)
+
   [Kontakt](#kontakt)
 
 - ### Personal Update: Digitale Kompetenzen erwerben
