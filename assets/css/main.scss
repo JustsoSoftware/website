@@ -98,18 +98,24 @@ img {
   max-width: 100%;
 }
 
-#menu {
-  margin: 0;
-  position: absolute;
-  bottom: 0;
-  background: white;
-  left: 0;
-  right: 0;
-  padding: 20px;
-  text-align: right;
+#main {
+  #menu {
+    margin: 0;
+    position: absolute;
+    bottom: 0;
+    background: white;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    text-align: right;
 
-  li {
-    display: inline;
-    margin-right: 10px;
+    li {
+      display: inline;
+      margin-right: 10px;
+
+      a {
+        color: black;
+      }
+    }
   }
 }
