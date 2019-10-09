@@ -1,7 +1,7 @@
 title: Digital Wachsen
 subtitle: Impulse für die digitale Kompetenz
 description: |
-  Definition digitaler Kompetenz für Mitarbeiter und Organisation. Veränderungsbedarf bestimmen und Impulse 
+  Definition digitaler Kompetenz für Mitarbeiter und Organisation. Veränderungsbedarf bestimmen und Impulse
   zum Kompetenzerwerb. Training, Coaching, Workshops.
 author: Christiane Gerigk
 email: info@justso.de
@@ -13,7 +13,7 @@ url: "https://digital-wachsen.de"
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url: 
+twitter_url:
 facebook_url:
 googleplus_url:
 instagram_url:
@@ -26,5 +26,5 @@ dribbble_url:
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
-theme: jekyll-theme-prologue
+theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
