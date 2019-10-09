@@ -4,17 +4,31 @@ icon: fa-th
 order: 3
 ---
 
-### Lernen, verlernen, neu lernen in der digitalen Transformation
+## Leistungen
 
-Digitalisierung ist kein Expertenthema. Sie verändert die gesamte Organisation, alle Mitarbeiter.
-Ich arbeite als Partner für Innovationstreiber und HR in der Transformation und
+- ### Digital HR Update
 
-- befähige
-- ermutige
-- bekräftige
+  - Workshopangebote
+  - Position und Road-Map in der Digitalisierung beschreiben
+  - Trends & Chancen für HR erkennen
+  - HR Rollenveränderung ermutigen
+  - Konzepte hinter digitalen Buzzwords verstehen
+  
+  [Kontakt](#contakt)
+  
+- ### Agile Innovation und Lean-Startup Methoden
 
-Organisation und Mitarbeiter mit Impulsworkshops, Coaching und Trainings zu
+  - Workshops und Coaching
+  - Hands-on Einstieg in Design Thinking, Lean Startup, Agile Entwicklung
+  - Agiles Projekt-Setup
 
-- Digitale Kompetenzen definieren und erwerben
-- Agile Innovation und Lean Startup Methoden
-- HR als Enabler in der Transformation
+  [Kontakt](#contakt)
+
+- ### Personal Update: Digitale Kompetenzen erwerben
+
+  - Digitale Trends und ihr Einfluss auf die Arbeitswelt
+  - Veränderte Schwerpunkte im Kompetenzmodell
+  - Selbst Zugang zu benötigten Kompetenzen finden
+  
+  [Kontakt](#contakt)
+  
