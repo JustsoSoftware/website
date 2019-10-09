@@ -12,6 +12,8 @@ order: 3
   - HR Rollenveränderung ermutigen
   - Konzepte hinter digitalen Buzzwords verstehen
   
+  [Mehr](hr-goes-digital-workshop)
+  
   [Kontakt](#kontakt)
   
 - ### Agile Innovation und Lean-Startup Methoden
