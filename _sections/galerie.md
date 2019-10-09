@@ -10,7 +10,7 @@ order: 4
 
   Erfahrungsaustausch der Experten und hands-on Einstieg für Interessierte im Skydeck der DB Systel.  
 
-  https://www.meetup.com/de-DE/Design-Thinking-Frankfurt/
+  [](https://www.meetup.com/de-DE/Design-Thinking-Frankfurt/)
   
 - ### Organisation und Moderation in LeanCamp und XCamp
 
@@ -18,10 +18,10 @@ order: 4
 
   Austausch zu Methoden und Projekterfahrungen von Startups und Innovationstreibern der Rhein-Main-Region
 
-  https://xcamp.co
-  http://www.leancamp.net
+  [](https://xcamp.co)
+  [](http://www.leancamp.net)
   
-  > Foto: Tobias von Garnier Photography
+  _Foto: Tobias von Garnier Photography_
 
 - ### Lean Startup Circle Rhein-Main
 
@@ -37,7 +37,7 @@ order: 4
   Engineering- und IT-Tagung der IT Metall und Hans Böckler Stiftung: Agil, Mobil, Innovativ – Wo bleibt der Raum
   für gute Arbeit? Forschungscampus der Robert Bosch GmbH
 
-  > Foto: Anette Hornischer, IG Metall
+  _Foto: Anette Hornischer, IG Metall_
   
 - ### Design Thinking Workshop
 
@@ -47,4 +47,4 @@ order: 4
   design thinking workshop for our industry. They involved our team efficiently to generate lots of awesome ideas. 
   Thanks for this great workshop and accompanying us further on our future path."
 
-  > Tobias Menne, Head of Digital Farming, Bayer AG Crop Science, Jan 2017
+  _Tobias Menne, Head of Digital Farming, Bayer AG Crop Science, Jan 2017_
