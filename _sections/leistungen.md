@@ -1,7 +1,7 @@
 ---
 title: Leistungen
 icon: fa-th
-order: 2
+order: 3
 ---
 
 - ### Digital HR Update
