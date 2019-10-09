@@ -10,7 +10,7 @@ order: 4
 
   Erfahrungsaustausch der Experten und hands-on Einstieg für Interessierte im Skydeck der DB Systel.  
 
-  [](https://www.meetup.com/de-DE/Design-Thinking-Frankfurt/)
+  [Design-Thinking-Frankfurt](https://www.meetup.com/de-DE/Design-Thinking-Frankfurt/)
   
 - ### Organisation und Moderation in LeanCamp und XCamp
 
@@ -18,8 +18,8 @@ order: 4
 
   Austausch zu Methoden und Projekterfahrungen von Startups und Innovationstreibern der Rhein-Main-Region
 
-  [](https://xcamp.co)
-  [](http://www.leancamp.net)
+  [XCamp](https://xcamp.co)
+  [Lean Camp](http://www.leancamp.net)
   
   _Foto: Tobias von Garnier Photography_
 

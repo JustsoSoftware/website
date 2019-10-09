@@ -84,7 +84,7 @@ weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämt
 vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch den Cookie erzeugten und auf 
 Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch 
 Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: 
-[](https://tools.google.com/dlpage/gaoptout?hl=de)
+[https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de)
 
 ### Widerspruch gegen Datenerfassung
 
@@ -93,7 +93,7 @@ verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie ges
 zukünftigen Besuchen dieser Website verhindert: Google Analytics deaktivieren
 
 Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerklärung von Google:
-[](https://support.google.com/analytics/answer/6004245?hl=de)
+[https://support.google.com/analytics/answer/6004245?hl=de](https://support.google.com/analytics/answer/6004245?hl=de)
 
 ### Auftragsdatenverarbeitung
 
@@ -113,7 +113,7 @@ dargestellt generell untersagen.
 Auf unseren Seiten sind Plugins des sozialen Netzwerks Facebook, Anbieter Facebook Inc., 1 Hacker Way, Menlo Park, 
 California 94025, USA, integriert. Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem „Like-Button“ 
 („Gefällt mir“) auf unserer Seite. Eine Übersicht über die Facebook-Plugins finden Sie hier:
-[](https://developers.facebook.com/docs/plugins/).
+[https://developers.facebook.com/docs/plugins/](https://developers.facebook.com/docs/plugins/).
 
 Wenn Sie unsere Seiten besuchen, wird über das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem 
 Facebook-Server hergestellt. Facebook erhält dadurch die Information, dass Sie mit Ihrer IP- Adresse unsere Seite 
@@ -121,7 +121,7 @@ besucht haben. Wenn Sie den Facebook „Like-Button“ anklicken während Sie in
 können Sie die Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer 
 Seiten Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt 
 der übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu finden Sie in der 
-Datenschutzerklärung von Facebook unter [](https://de-de.facebook.com/policy.php).
+Datenschutzerklärung von Facebook unter [https://de-de.facebook.com/policy.php](https://de-de.facebook.com/policy.php).
 
 Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto zuordnen kann, loggen Sie 
 sich bitte aus Ihrem Facebook-Benutzerkonto aus.
@@ -132,10 +132,10 @@ Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch das Ben
 „Re-Tweet“ werden die von Ihnen besuchten Websites mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt 
 gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine 
 Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu 
-finden Sie in der Datenschutzerklärung von Twitter unter [](https://twitter.com/privacy).
+finden Sie in der Datenschutzerklärung von Twitter unter [https://twitter.com/privacy](https://twitter.com/privacy).
 
 Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter:
-[](https://twitter.com/account/settings) ändern.
+[https://twitter.com/account/settings](https://twitter.com/account/settings) ändern.
 
 ## LinkedIn
 Unsere Website nutzt Funktionen des Netzwerks LinkedIn. Anbieter ist die LinkedIn Corporation, 2029 Stierlin Court, 
@@ -147,7 +147,7 @@ zuzuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntn
 sowie deren Nutzung durch LinkedIn haben.
 
 Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von LinkedIn unter: 
-[](https://www.linkedin.com/legal/privacy-policy)
+[https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 ## XING
 Unsere Website nutzt Funktionen des Netzwerks XING. Anbieter ist die XING AG, Dammtorstraße 29-32, 20354 Hamburg, 
@@ -156,7 +156,7 @@ XING hergestellt. Eine Speicherung von personenbezogenen Daten erfolgt dabei nac
 werden keine IP-Adressen gespeichert oder das Nutzungsverhalten ausgewertet.
 
 Weitere Information zum Datenschutz und dem XING Share-Button finden Sie in der Datenschutzerklärung von XING unter: 
-[](https://www.xing.com/app/share?op=data_protection)
+[https://www.xing.com/app/share?op=data_protection](https://www.xing.com/app/share?op=data_protection)
 
 
 ## SSL-Verschlüsselung
@@ -181,4 +181,4 @@ ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbei
 vor.
  
 
-Quelle: [](https://www.e-recht24.de)
+Quelle: [eRecht24](https://www.e-recht24.de)
