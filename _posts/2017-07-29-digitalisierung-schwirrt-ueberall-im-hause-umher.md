@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Digitalisierung schwirrt überall im hause umher
-tags: digitalisierun, hr
+title: Digitalisierung schwirrt überall im Hause umher
+tags: digitalisierung, hr
 ---
 
 Telefonat mit einem HR-Mitarbeiter, der neu im Unternehmen ist und meinen Rat sucht.
