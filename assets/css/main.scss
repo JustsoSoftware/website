@@ -4,6 +4,16 @@
 
 @import "jekyll-theme-prologue";
 
+body {
+  color: #333333;
+  font-size: 19px;
+  font-weight: 500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #333333;
+}
+
 #pageheader {
   background: url(../images/Digital-Kompetent-Hero-1.jpg);
   background-position: 0 50%;
