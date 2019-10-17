@@ -13,7 +13,7 @@ Standorten in Europa durchgeführt. In Deutschland gab es LeanCamps zuerst in St
 Dan und Salim wollen mit dem LeanCamp Experten und Interessenten für die nah verwandten Methoden der Produktentwicklung 
 zusammenführen.
 
-![LeanCamp Intro London](../../../assets/images/salim-what_can_be_learned.png)
+![LeanCamp Intro London](../../../assets/images/salim-what_can_be_learned.png)<br>
 _Salim Virani, Leancamp intro London 2, [www.saintsal.com](http://www.saintsal.com)_
  
 Es geht nicht darum zu fragen, Lean Startup oder Design Thinking Approach, was ist besser?  Die Teilnehmer am LeanCamp 
@@ -80,7 +80,7 @@ Unternehmensstrukturen auf Hemmnisse stoßen. Aber nicht nur dort, wie man am f�
 
 ## Abschluss und Ausblick
 
-<img class="small" alt="What can be learned" src="../../../assets/images/salim-what-can-be-learned.png">
+<img class="small" alt="What can be learned" src="../../../assets/images/salim-what_can_be_learned.png">
 _Dan Toma_
 
 Dan Toma moderierte den Abschluss, würdigte das Engagement des Tages und legte uns mit seiner Frage: Was setzt ihr am 
