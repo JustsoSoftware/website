@@ -156,23 +156,30 @@ a + a {
   margin-left: 2em;
 }
 
-article p img.small {
-  float: left;
+article {
+  p img.small {
+    float: left;
 
-  @media (min-width: 600px) {
-    margin: .5em 1em .5em 0;
-    max-width: 300px;
+    @media (min-width: 600px) {
+      margin: .5em 1em .5em 0;
+      max-width: 300px;
 
-    &.portrait {
-      max-width: 225px;
+      &.portrait {
+        max-width: 225px;
+      }
+    }
+
+    &.pull-right {
+      float: right;
+
+      @media (min-width: 600px) {
+        margin: .5em 0 .5em 1em;
+      }
     }
   }
 
-  &.pull-right {
-    float: right;
-
-    @media (min-width: 600px) {
-      margin: .5em 0 .5em 1em;
-    }
+  strong, b {
+    font-weight: 800;
+    color: #000;
   }
 }
