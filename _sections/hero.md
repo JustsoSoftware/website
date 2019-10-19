@@ -11,10 +11,4 @@ order: 1
   <p>Impulse für die digitale Kompetenz</p>
 </header>
 
-<ul id="menu">
-    <li><a href="#leistungen">Leistungen</a></li>
-    <li><a href="#galerie">Galerie</a></li>
-    <li><a href="#werdegang">Werdegang</a></li>
-    <li><a href="#kontakt">Kontakt</a></li>
-    <li><a href="blog">Blog</a></li>
-</ul>
+{%- include menu.html -%}
