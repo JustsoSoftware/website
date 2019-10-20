@@ -1,7 +1,7 @@
 ---
 title: Galerie
 icon: fa-th
-order: 4
+order: 5
 ---
 
 - ### Design Thinking Meetup in Frankfurt Rhein-Main

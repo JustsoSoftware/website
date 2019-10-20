@@ -26,5 +26,5 @@ dribbble_url:
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
-theme: chrisbobbe/jekyll-theme-prologue
+remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]

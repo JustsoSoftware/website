@@ -152,6 +152,14 @@ article {
   }
 }
 
+#workshop .container {
+  height: 30rem;
+
+  header {
+    display: none;
+  }
+}
+
 #leistungen,
 #galerie {
   background-color: white;
