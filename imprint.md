@@ -2,8 +2,8 @@
 layout: page
 title: Impressum
 redirect_from:
- - /imprint/
- - /impressum/
+  - /imprint/
+  - /impressum/
 ---
 
 Angaben gemäß § 5 TMG:

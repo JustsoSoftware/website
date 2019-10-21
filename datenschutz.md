@@ -2,7 +2,7 @@
 layout: page
 title: Datenschutz
 redirect_from:
- - /datenschutz/
+  - /datenschutz/
 ---
 
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen 

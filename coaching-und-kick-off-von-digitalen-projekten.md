@@ -2,7 +2,7 @@
 layout: page
 title: Coaching und Kick-off von digitalen Projekten
 redirect_from:
- - /coaching-und-kick-off-von-digitalen-projekten/
+  - /coaching-und-kick-off-von-digitalen-projekten/
 ---
 
 <div style="float: right; width: 320px;">
