@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Lean Startup, Design Thinking und andere agile Methoden Schulungen
+redirect_from:
+ - /lean-startup-design-thinking-und-andere-agile-methoden-schulungen/
 ---
 
 Überblick und hands-on Einstieg in den Methoden-Mix der Digitalisierung. Wir vermitteln Verständnis für die 

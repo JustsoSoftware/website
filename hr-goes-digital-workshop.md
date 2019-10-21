@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Workshop HR goes Digital
+redirect_from:
+ - /hr-goes-digital-workshop/
 ---
 
 ![HR Goes Digital Workshop](assets/images/KonM4-Blick-in-die-Zukunft.jpg)

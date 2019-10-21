@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Einführende Lektüre zur Seminarvorbereitung
+redirect_from:
+ - /agile-arbeitsmethoden/
 ---
 
 Der Workshop „Agile Arbeitsmethoden“ soll das Verständnis für agile Methoden schaffen bzw. vertiefen und einige ausgewählte agile Methodenbausteine in ihrer Wirkungsweise und ihren Anwendungsvoraussetzungen genauer vermitteln.
