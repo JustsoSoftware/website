@@ -8,7 +8,7 @@ In der Corona-Krise gilt die Empfehlung „Bleib zu Hause“ für alle. Als exte
 
 Klar gibt es Gemeinsamkeiten. Wer immer konnte, hat Arbeit nach Hause und in Videokonferenzen verlagert. Wie andere Kollaborationswerkzeuge auch hat Microsoft Teams zu Beginn der Corona-Krise einen steilen Anstieg der Aufmerksamkeit erlebt. Das zeigt auch die Google [Trend-Abfrage](https://trends.google.de/trends/explore?geo=DE&q=microsoft%20teams) vom 12.05.2020 zum Stichwort Microsoft Teams in Deutschland.
 
-![Google Trend zu Microsoft Teams]()
+![Google Trend zu Microsoft Teams](../../../assets/images/GoogleTrendsMicrosoftTeams.png)
 
 Als Externe erreiche ich normalerweise meine Ansprechpartner über Telefon und Mail. Abgesehen von Abrechnungen und gelegentlichem Datenaustausch bleibt mir der Einblick in den digitalen Büroalltag verborgen. In der Krise öffnete sich die Tür ein stückweit.
 
@@ -27,7 +27,7 @@ Teams bietet als Plattform für die Kommunikation, Koordination und Zusammenarbe
 
 Die Aufforderung im **Kanal** der Arbeitsgruppe: „Bitte ergänzt den (hier verlinkten) Agenda-Entwurf in der Dateiablage bis Freitag 14:00“, reduziert E-Mailverkehr und punktuellen Aktualisierungsaufwand vor jedem Meeting. Das **Protokoll** wird vor den Augen aller an Ort und Stelle live im verknüpften Wiki oder OneNote Notizbuch verfasst. Einwände und Ergänzungen fließen unmittelbar im Gespräch ein. Wieder verringert das den E-Mailverkehr und späteren Aktualisierungsaufwand. 
 
-![Screenshot Teams mit eigenen Tabs]()
+![Screenshot Teams mit eigenen Tabs](../../../assets/images/MicrosoftTeamsTabs.png)
 
 Mein **Status** meldet den anderen, ich bin ansprechbar oder - erwarte keine Antwort, ich bin beschäftigt. Das nonverbale Signal benötigt in der Startphase bewusste Aufmerksamkeit, bis allen die Ampel auffällt und sie aktiv gepflegt wird. Es beschleunigt anschließend den täglichen Kontakt untereinander, auch dann noch, wenn sich das Geschehen wieder ins Büro verlagert.
 
@@ -51,7 +51,7 @@ Und schließlich **Besprechungen**. Mit zunehmender Teilnehmergröße ähneln vi
 -	10 min Pause nach 50 Minuten.
 -	Für größere Arbeitsthemen parallele Gruppenbesprechungen öffnen, die nach einer festen Frist wieder zurück in den Hauptkanal wechseln.
 
-![Online Meetings dirigieren]()
+![Online Meetings dirigieren](../../../assets/images/ConductOnlineMeetings.png)
 
 ### Was ich als **Teilnehmer** tun für lebendigere Teams-Besprechungen kann
 
