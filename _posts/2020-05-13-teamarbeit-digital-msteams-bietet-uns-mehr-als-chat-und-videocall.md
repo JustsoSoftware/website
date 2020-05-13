@@ -17,9 +17,12 @@ Gut schon mal, wer über ein Tool wie Teams überhaupt verfügt und auch über m
 Doch schauen wir einem typischen Nutzer von Teams kurz über die virtuelle Schulter.
 
 > „Hier klicke ich auf den Link in der Outlook-Besprechungseinladung und nehme dann am online Meeting teil.“ 
->   „Und sonst?“ 
+
+> -- „Und sonst?“ 
+
 > „Nichts sonst.“
->   Schade. Hier geht mehr. 
+
+> -- Schade. Hier geht mehr. 
 
 ## Asynchrone Kommunikation
 
