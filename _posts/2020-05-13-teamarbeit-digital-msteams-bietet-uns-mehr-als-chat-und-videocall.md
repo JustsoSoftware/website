@@ -53,7 +53,7 @@ Und schließlich **Besprechungen**. Mit zunehmender Teilnehmergröße ähneln vi
 
 ![Online Meetings dirigieren](../../../assets/images/ConductOnlineMeetings.png)
 
-### Was ich als **Teilnehmer** tun für lebendigere Teams-Besprechungen kann
+### Was ich als **Teilnehmer** für lebendigere Teams-Besprechungen tun kann
 
 -	Pünktlich technisch startklar sein.
 -	Die Agenda kennen und Material vorab sichten.
