@@ -38,7 +38,7 @@ Mein **Status** meldet den anderen, ich bin ansprechbar oder - erwarte keine Ant
 
 Und schließlich **Besprechungen**. Mit zunehmender Teilnehmergröße ähneln virtuelle Meetings oft einer Monologfolge. Auf die Frage nach Kommentaren lauscht der Sprecher in die weite Stille. Eine Webinar-Teilnehmerin verglich kürzlich ihre Moderationserfahrung mit dem Versuch, sich mit Fischen unter der Meeresoberfläche zu unterhalten. 
 
-#### Was ich als **Moderatorin** für mehr Nähe und Beteiligung in einer Besprechung tun kann
+### Was ich als **Moderatorin** für mehr Nähe und Beteiligung in einer Besprechung tun kann
 
 -	Ungeübte oder neue Teilnehmer 15 min früher zum Technik-Check einladen.
 -	Videoansicht zumindest zum Einstieg und Kennenlernen. Gern auch zum Abschluss.
@@ -56,7 +56,7 @@ Und schließlich **Besprechungen**. Mit zunehmender Teilnehmergröße ähneln vi
 
 ![Online Meetings dirigieren](../../../assets/images/ConductOnlineMeetings.png)
 
-#### Was ich als **Teilnehmer** für lebendigere Teams-Besprechungen tun kann
+### Was ich als **Teilnehmer** für lebendigere Teams-Besprechungen tun kann
 
 -	Pünktlich technisch startklar sein.
 -	Die Agenda kennen und Material vorab sichten.
