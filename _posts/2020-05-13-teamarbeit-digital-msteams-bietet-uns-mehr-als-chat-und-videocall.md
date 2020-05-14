@@ -63,4 +63,5 @@ transparent sein, wenn ich mich bei bestimmten Punkten ausklinke.
 -	Meine Stimme variieren, Mimik und Gestik verstärken.
 -	Ein individuelles Hintergrundfoto spart Bandbreite und findet die Aufmerksamkeit der Kollegen.
 
-Wer die Kniffe und verborgenen Möglichkeiten in MS Teams ausprobieren will, hier finden Sie kurze Tutorials …
+Wer die Kniffe und manchmal etwas verborgenen Möglichkeiten in MS Teams ausprobieren will, findet hier kurze Tutorials von Microsoft: [Microsoft Teams-Videoschulung](https://support.office.com/de-de/article/microsoft-teams-videoschulung-4f108e54-240b-4351-8084-b1089f0d21d7)
+
