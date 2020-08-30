@@ -4,7 +4,7 @@ icon: fa-user
 order: 6
 ---
 
-<img alt="Dr. Christiane Gerigk" src="assets/images/Foto_Christiane_Gerigk_website.jpg" style="width: 500px; float: right; margin: 0 0 10px 10px;">
+![Dr. Christiane Gerigk](assets/images/Foto_Christiane_Gerigk_website.jpg)
 
 ### Der Schatz eines Arbeitslebens: Beziehungen und Erfahrungen.<br>
 ### In dieser Reihenfolge.
