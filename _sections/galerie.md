@@ -34,7 +34,7 @@ order: 5
 
   ![Podiumsdiskussion zur Arbeitsweise in Startups](assets/images/Podium-Engineering-Conference-1.jpg)
 
-  Engineering- und IT-Tagung der IT Metall und Hans Böckler Stiftung: Agil, Mobil, Innovativ – Wo bleibt der Raum
+  Engineering- und IT-Tagung der IG Metall und Hans Böckler Stiftung: Agil, Mobil, Innovativ – Wo bleibt der Raum
   für gute Arbeit? Forschungscampus der Robert Bosch GmbH
 
   _Foto: Anette Hornischer, IG Metall_
