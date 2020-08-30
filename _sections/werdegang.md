@@ -4,10 +4,12 @@ icon: fa-user
 order: 6
 ---
 
-Der Schatz eines Arbeitslebens: Beziehungen und Erfahrungen.<br>
-In dieser Reihenfolge.
+<img alt="Dr. Christiane Gerigk" src="assets/images/Foto_Christiane_Gerigk_website.jpg" style="max-width: 800px; float: right;margin-left: 5px;">
 
-![Dr. Christiane Gerigk](assets/images/Foto_Christiane_Gerigk_website.jpg){:style="max-width: 800px; float: right;margin-left: 5px;}
+##Der Schatz eines Arbeitslebens: Beziehungen und Erfahrungen.<br>
+##In dieser Reihenfolge.
+
+<span style="clear: both"></span>
 
 Dr. Christiane Gerigk arbeitet als Coach und Workshop-Moderatorin mit Teams gezielt in der Frühphase von
 Innovationsprozessen. Sie vermittelt on-the-Job die geeigneten Methoden aus agiler Entwicklung, Lean-Startup und 
