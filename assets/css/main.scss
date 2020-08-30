@@ -184,22 +184,22 @@ article {
       }
     }
   }
-  
-  #werdegang {
+}
+
+#werdegang {
+  img {
+    width: 500px;
+    float: right;
+    margin: 0 0 10px 10px;
+  }
+
+  @media (min-width: 520px) and (max-width: 800px) {
     img {
-      width: 500px;
-      float: right;
-      margin: 0 0 10px 10px;
+      width: 50%;
     }
-    
-    @media (min-width: 520px) and (max-width: 800px) {
-      img {
-        width: 50%;
-      }
-      
-      h3 {
-        font-size: 80%;
-      }
+
+    h3 {
+      font-size: 80%;
     }
   }
 }
