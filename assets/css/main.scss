@@ -184,4 +184,20 @@ article {
       }
     }
   }
+  
+  #werdegang {
+    img {
+      width: 500px;
+    }
+    
+    @media (min-width: 520px) and (max-width: 800px) {
+      img {
+        width: 50%;
+      }
+      
+      h3 {
+        font-size: 80%;
+      }
+    }
+  }
 }
