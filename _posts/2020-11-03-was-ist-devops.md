@@ -11,33 +11,33 @@ Agile Methoden und darauf aufbauend die DevOps-Philosophie setzen an der Wurzel 
  
 ## Was heißt "DevOps"?
  
-DevOps steht für ein enges Zusammenwirken von Softwareentwicklung und Betrieb. Mitarbeiter*innen aus Entwicklung und Betrieb übernehmen gemeinsam die Verantwortung für Produkte oder Services und stützen sich dabei auf eine gemeinsame Kultur des voneinander Lernens und Experimentierens, auf Methoden aus Lean und Agilen Ansätzen sowie auf konsequente Automatisierung, die den gesamten Prozessablauf beschleunigt und die Ergebnissequalität sichert.
+DevOps steht für ein enges Zusammenwirken von Softwareentwicklung und Betrieb. MitarbeiterInnen aus Entwicklung und Betrieb übernehmen gemeinsam die Verantwortung für Produkte oder Services und stützen sich dabei auf eine gemeinsame Kultur des voneinander Lernens und Experimentierens, auf Methoden aus Lean und Agilen Ansätzen sowie auf konsequente Automatisierung, die den gesamten Prozessablauf beschleunigt und die Ergebnissequalität sichert.
  
 In der Ende-to-Ende Variante BizDevOps arbeiten IT und Geschäftsbereiche gemeinsam an der Konzeption, (Weiter-)Entwicklung und dem Betrieb von zeitgemäßen, dem Wettbewerb überlegenen Produkten und Services. Wenn von DevSecOps die Rede ist, wird zusätzlich betont, dass Sicherheitsanforderungen von Anfang an im Entstehungs- und Betriebsprozess verankert werden. 
  
-DevOps wurzelt in agilen und lean Ansätzen
+## DevOps Prinzipien
  
-DevOps baut auf agile/lean Grundsätze
+### DevOps baut auf agile/lean Ansätze
 
-- Die höchste Priorität hat Kundenzufriedenheit durch frühe und kontinuierlicher Auslieferung wertvoller Software.
+- Die höchste Priorität hat Kundenzufriedenheit durch frühe und kontinuierliche Auslieferung wertvoller Software.
 - Anforderungen werden auf kleine, gut überschaubare Aufgabenpakete aufgeteilt.
 - Die Anzahl an gleichzeitig zu bearbeitenden Aufgabenpaketen (Work in Progress) wird begrenzt.
 - Durch Pair Programming und Peer Reviews wird ständig Wissen geteilt und Prozess-Qualität verbessert.
 - Frühes Testen, Testautomatisierung, Test-driven Development
 - Lernen, regelmäßiges Reflektieren und Verbessern der Zusammenarbeit und Prozesse
  
-Dazu in DevOps: Infrastruktur als Code
+### Infrastruktur als Code
 
 - Kontinuierlich werden neue Programmteil mit bereits bestehenden, auch produktiven Komponenten integriert (CI-Continuous Integration)
 - Kontinuierliche Auslieferung von Erweiterungen und Softwarekorrekturen an die Nutzer (CD-Continuous Deployment)
 - Self-Service Portale für Infrastrukturleistungen
-- Stetes Monitoring von Schlüsselkennzahlen (KPI`s) transparent für alle
+- Stetes Monitoring von Schlüsselkennzahlen (KPIs) transparent für alle
  
 ## Vorteile von DevOps
  
-Entwickler*innen profitieren davon, dass sie ihren Code schnell im echten Einsatz erleben und so früh Feedback erhalten. Die Nutzer*innen bekommen kontinuierlich neue Features und schnell Korrekturen auf gemeldete Fehler ausgeliefert. Anwendungen wachsen im Lebenszyklus mit den sich verändernden Anforderungen und Möglichkeiten.
+EntwicklerInnen profitieren davon, dass sie ihren Code schnell im echten Einsatz erleben und so früh Feedback erhalten. Die NutzerInnen bekommen kontinuierlich neue Features und schnell Korrekturen auf gemeldete Fehler ausgeliefert. Anwendungen wachsen im Lebenszyklus mit den sich verändernden Anforderungen und Möglichkeiten.
  
-Die Betriebskolleg*innen bringen schon früh im Entwicklungsprozess ihre Anforderungen zusammen mit ihrem Know-how ein und sorgen dafür, dass im Betrieb Probleme schnell und sicher erkannt werden können (Stichwort "Observability"). So wird der Betrieb sicherer, im Fehlerfall kann durch eigene Programmkenntnis bzw. die Nähe von Entwickler*innen schnell reagiert und der Normalbetrieb wieder hergestellt werden. Multitasking, Druck und Fire-fighting gehen zurück, dafür nimmt der Anteil an konzeptionellen, konstruktiver Arbeit zu. 
+Die BetriebskollegInnen bringen schon früh im Entwicklungsprozess ihre Anforderungen zusammen mit ihrem Know-how ein und sorgen dafür, dass im Betrieb Probleme schnell und sicher erkannt werden können (Stichwort "Observability"). So wird der Betrieb sicherer, im Fehlerfall kann durch eigene Programmkenntnis bzw. die Nähe von EntwicklerInnen schnell reagiert und der Normalbetrieb wieder hergestellt werden. Multitasking, Druck und Fire-fighting gehen zurück, dafür nimmt der Anteil an konzeptioneller, konstruktiver Arbeit zu. 
  
 ## Phasen einer DevOps Einführung
  
