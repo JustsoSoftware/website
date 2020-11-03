@@ -1,4 +1,6 @@
-DevOps - Mehr als Entwicklungs- und Betriebsköpfe zusammengesteckt
+---
+title: DevOps - Mehr als Entwicklungs- und Betriebsköpfe zusammengesteckt
+---
 Eine pragmatische Zusammenfassung 
  
 Gründe für DevOps
