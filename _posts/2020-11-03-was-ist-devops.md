@@ -1,5 +1,7 @@
 ---
 title: DevOps - Mehr als Entwicklungs- und Betriebsköpfe zusammengesteckt
+layout: post
+tags: transformation, agile
 ---
 Eine pragmatische Zusammenfassung 
  
