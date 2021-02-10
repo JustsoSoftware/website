@@ -27,7 +27,7 @@ Wir vertiefen an den zwei Tagen einige agile Techniken oder Praktiken. Wir lerne
 
 Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in der Hand begreifen. Da sie mit einer Reihe von neuen Begriffen verbunden sind, ist es dennoch nützlich, vorab schon einen Blick in die Original-Texte zu werfen. Wir werden im Workshop die Begriffe und Konzepte Schritt für Schritt nachvollziehen. Wenn Ihnen beim Lesen manche Aussagen unverständlich oder zweifelhaft erscheinen, notieren Sie sich Ihren Eindruck und wir tauschen uns vor Ort dazu aus.
 
-<img class="medium centered" title="Übungsbeispiel zu agilen Prinzipien" src="/assets/images/Agile-Game-Kanban-768x1024.jpg"><br>
+<img class="centered" title="Übungsbeispiel zu agilen Prinzipien" src="/assets/images/Agile-Game-Kanban-768x1024.jpg"><br>
 _Übungsbeispiel zu agilen Prinzipien_
 
 Agiles Arbeiten beruht vor allem auf bestimmten Werten und Prinzipien, die im Agilen Manifest beschrieben werden.
