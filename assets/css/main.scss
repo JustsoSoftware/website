@@ -85,6 +85,16 @@ li h3 {
 
 img {
   max-width: 100%;
+  
+  &.centered {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+    
+    + br + em {
+      text-align: center;
+    }
+  }
 }
 
 cite {
