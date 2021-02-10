@@ -5,7 +5,25 @@ redirect_from:
   - /agile-arbeitsmethoden/
 ---
 
-Der Workshop „Agile Arbeitsmethoden“ soll das Verständnis für agile Methoden schaffen bzw. vertiefen und einige ausgewählte agile Methodenbausteine in ihrer Wirkungsweise und ihren Anwendungsvoraussetzungen genauer vermitteln.
+Die zwei Seminartage „Agile Arbeitsmethoden“ schaffen Verständnis für die begriffliche Wolke Agilität, für den erklingenden Ruf nach agilerem Arbeiten und einen Überblick zu wichtigen agilen Methoden:
+- Design Thinking
+- Scrum
+- Kanban
+- Lean Startup
+- Business Model Generation
+
+Bei weitergehendem Interesse ist jede dieser Methoden eine eigenständige Vertiefung Wert und vor allem kontinuierliches Wechselspiel von Lernen, praktischem Erfahren und Reflektieren.
+
+Wir vertiefen an den zwei Tagen einige agile Techniken oder Praktiken. Wir lernen sie in ihrer Wirkungsweise kennen und sprechen dabei genau über die Voraussetzungen für die erfolgreiche Anwendung. Je nach Interesse geht können das sein:
+- Daily
+- Retrospektive
+- Taskboard
+- Sprint
+- Protoyping
+- Planning Poker
+- User Story
+- Lean Coffee
+- Open Space
 
 Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in der Hand begreifen. Da sie mit einer Reihe von neuen Begriffen verbunden sind, ist es dennoch nützlich, vorab schon einen Blick in die Original-Texte zu werfen. Wir werden im Workshop die Begriffe und Konzepte Schritt für Schritt nachvollziehen. Wenn Ihnen beim Lesen manche Aussagen unverständlich oder zweifelhaft erscheinen, notieren Sie sich Ihren Eindruck und wir tauschen uns vor Ort dazu aus.
 
@@ -16,23 +34,23 @@ Agiles Arbeiten beruht vor allem auf bestimmten Werten und Prinzipien, die im Ag
 
 ### Agiles Manifest und Agile Prinzipien
 
-In verschiedenen Disziplinen haben sich unabhängig voneinander agile Methoden herausgebildet. Vor allem in der Softwareentwicklung entstanden neuartige Arbeitsweisen, die man unter der Bezeichnung „agil“ einordnen lassen. Verfechter unterschiedlicher Ansätze kamen 2001 in der Abgeschiedenheit der Rocky Mountains zusammen, um sich über die gemeinsamen Grundsätze klar zu werden. Sie haben ihre Ergebnisse in einem „Agilen Manifest“ festgehalten. Bis heute folgen überall auf der Welt Menschen diesen Grundsätzen in ihrer Arbeit an neuen Ideen, Services und Produkten.
+In verschiedenen Disziplinen haben sich unabhängig voneinander agile Ansätze herausgebildet. Vor allem in der Softwareentwicklung entstanden neuartige Arbeitsweisen, die man unter der Bezeichnung „agil“ einordnet. Verfechter unterschiedlicher Ansätze kamen 2001 in der Abgeschiedenheit der Rocky Mountains zusammen, um sich über die gemeinsamen Grundsätze klar zu werden. Sie haben ihre Ergebnisse in einem „Agilen Manifest“ festgehalten. Bis heute folgen überall auf der Welt Menschen diesen Grundsätzen in ihrer Arbeit an neuen Ideen, Services und Produkten.
 
-## Manifest für Agile Produktentwicklung*
+## Manifest für Agile Produktentwicklung
 
-Wir erschließen bessere Wege, Produkte* zu entwickeln,
+Wir erschließen bessere Wege, Produkte zu entwickeln,
 indem wir es selbst tun und anderen dabei helfen.
 Durch diese Tätigkeit haben wir diese Werte zu schätzen gelernt:
 
-> **Individuen und Interaktionen** mehr als Prozesse und Werkzeuge
-> **Funktionierende Produkte*** mehr als umfassende Dokumentation
-> **Zusammenarbeit mit dem Kunden** mehr als Vertragsverhandlung
+> **Individuen und Interaktionen** mehr als Prozesse und Werkzeuge<br>
+> **Funktionierende Produkte** mehr als umfassende Dokumentation<br>
+> **Zusammenarbeit mit dem Kunden** mehr als Vertragsverhandlung<br>
 > **Reagieren auf Veränderung** mehr als das Befolgen eines Plans
   
 Das heißt, obwohl wir die Werte auf der rechten Seite wichtig finden,
 schätzen wir die Werte auf der linken Seite höher ein.
 
-_*ursprünglich Softwareentwicklung. Bei Produkten kann es sich um physische, digitale Produkte oder auch Dienstleistungen oder Prozesse handeln. 
+Anstelle der allgemeineren Produktentwicklung stand ursprünglich Softwareentwicklung. Bei Produkten kann es sich um physische, digitale Produkte oder auch Dienstleistungen oder Prozesse handeln. 
 Quelle: [http://agilemanifesto.org/iso/de/manifesto.html](http://agilemanifesto.org/iso/de/manifesto.html)_
 
 ## Prinzipien hinter dem Agilen Manifest
@@ -83,6 +101,7 @@ In regelmäßigen Abständen reflektiert das Team,
 wie es effektiver werden kann und passt sein
 Verhalten entsprechend an.
 
+Diese Prinzipien scheinen beim ersten Lesen schnell eingängig und logisch. In der Umsetzung brauchen sie einige Iterationen an Verständnis im agilen Team und bei dessen Stakeholdern, damit die erwünschte Wirkung: Agilität - wirklich erzielt wird.
 _Quelle: [http://agilemanifesto.org/iso/de/principles.html](http://agilemanifesto.org/iso/de/principles.html)_
 
 ## Agile Methoden und Arbeitsweisen
