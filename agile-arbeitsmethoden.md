@@ -27,7 +27,7 @@ Wir vertiefen an den zwei Tagen einige agile Techniken oder Praktiken. Wir lerne
 
 Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in der Hand begreifen. Da sie mit einer Reihe von neuen Begriffen verbunden sind, ist es dennoch nützlich, vorab schon einen Blick in die Original-Texte zu werfen. Wir werden im Workshop die Begriffe und Konzepte Schritt für Schritt nachvollziehen. Wenn Ihnen beim Lesen manche Aussagen unverständlich oder zweifelhaft erscheinen, notieren Sie sich Ihren Eindruck und wir tauschen uns vor Ort dazu aus.
 
-![Übungsbeispiel zu agilen Prinzipien](assets/images/Agile-Game-Kanban-768x1024.jpg)<br>
+![Übungsbeispiel zu agilen Prinzipien](assets/images/Agile-Game-Kanban-768x1024.jpg?s=400)<br>
 _Übungsbeispiel zu agilen Prinzipien_
 
 Agiles Arbeiten beruht vor allem auf bestimmten Werten und Prinzipien, die im Agilen Manifest beschrieben werden.
@@ -57,48 +57,48 @@ Quelle: [http://agilemanifesto.org/iso/de/manifesto.html](http://agilemanifesto.
 
 Wir folgen diesen Prinzipien:
 
-Unsere höchste Priorität ist es,
-den Kunden durch frühe und kontinuierliche Auslieferung
+Unsere höchste Priorität ist es,<br>
+den Kunden durch frühe und kontinuierliche Auslieferung<br>
 wertvoller Produkte zufrieden zu stellen.
 
-Heiße Anforderungsänderungen selbst spät
-in der Entwicklung willkommen. Agile Prozesse nutzen Veränderungen
+Heiße Anforderungsänderungen selbst spät<br>
+in der Entwicklung willkommen. Agile Prozesse nutzen Veränderungen<br>
 zum Wettbewerbsvorteil des Kunden.
 
-Liefere funktionierende Software
-regelmäßig innerhalb weniger Wochen oder Monate und
+Liefere funktionierende Software<br>
+regelmäßig innerhalb weniger Wochen oder Monate und<br>
 bevorzuge dabei die kürzere Zeitspanne.
 
-Fachexperten und Entwickler
-müssen während des Projektes
+Fachexperten und Entwickler<br>
+müssen während des Projektes<br>
 täglich zusammenarbeiten.
 
-Errichte Projekte rund um motivierte Individuen.
-Gib ihnen das Umfeld und die Unterstützung, die sie benötigen
+Errichte Projekte rund um motivierte Individuen.<br>
+Gib ihnen das Umfeld und die Unterstützung, die sie benötigen<br>
 und vertraue darauf, dass sie die Aufgabe erledigen.
 
-Die effizienteste und effektivste Methode, Informationen
-an und innerhalb eines Entwicklungsteams zu übermitteln,
+Die effizienteste und effektivste Methode, Informationen<br>
+an und innerhalb eines Entwicklungsteams zu übermitteln,<br>
 ist im Gespräch von Angesicht zu Angesicht.
 
-Funktionierende Software ist das
+Funktionierende Software ist das<br>
 wichtigste Fortschrittsmaß.
 
-Agile Prozesse fördern nachhaltige Entwicklung.
-Die Auftraggeber, Entwickler und Benutzer sollten ein
+Agile Prozesse fördern nachhaltige Entwicklung.<br>
+Die Auftraggeber, Entwickler und Benutzer sollten ein<br>
 gleichmäßiges Tempo auf unbegrenzte Zeit halten können.
 
-Ständiges Augenmerk auf technische Exzellenz und
+Ständiges Augenmerk auf technische Exzellenz und<br>
 gutes Design fördert Agilität.
 
-Einfachheit — die Kunst, die Menge nicht
+Einfachheit — die Kunst, die Menge nicht<br>
 getaner Arbeit zu maximieren — ist essenziell.
 
-Die besten Architekturen, Anforderungen und Entwürfe
+Die besten Architekturen, Anforderungen und Entwürfe<br>
 entstehen durch selbstorganisierte Teams.
 
-In regelmäßigen Abständen reflektiert das Team,
-wie es effektiver werden kann und passt sein
+In regelmäßigen Abständen reflektiert das Team,<br>
+wie es effektiver werden kann und passt sein<br>
 Verhalten entsprechend an.
 
 Diese Prinzipien scheinen beim ersten Lesen schnell eingängig und logisch. In der Umsetzung brauchen sie einige Iterationen an Verständnis im agilen Team und bei dessen Stakeholdern, damit die erwünschte Wirkung: Agilität - wirklich erzielt wird.
