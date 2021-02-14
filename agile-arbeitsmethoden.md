@@ -1,20 +1,24 @@
 ---
 layout: page
-title: Einführende Lektüre zur Seminarvorbereitung
+title: Vorab-Lektüre für das Seminar "Agile Arbeitsmethoden"
 redirect_from:
   - /agile-arbeitsmethoden/
 ---
 
-Die zwei Seminartage „Agile Arbeitsmethoden“ schaffen Verständnis für die begriffliche Wolke Agilität, für den erklingenden Ruf nach agilerem Arbeiten und einen Überblick zu wichtigen agilen Methoden:
+Die zwei Seminartage „Agile Arbeitsmethoden“ schaffen Verständnis für die begriffliche Wolke Agilität, für den erklingenden Ruf "agiler Arbeiten" und einen Überblick zu einigen wichtigen agilen Methoden.
+
+Agile Methoden: 
 - Design Thinking
 - Scrum
 - Kanban
 - Lean Startup
 - Business Model Generation
 
-Bei weitergehendem Interesse ist jede dieser Methoden eine eigenständige Vertiefung Wert und vor allem kontinuierliches Wechselspiel von Lernen, praktischem Erfahren und Reflektieren.
+Bei weitergehendem Interesse ist jede dieser Methoden eine eigenständige Vertiefung Wert. Um die Methoden gut zu beherrschen, braucht es vor allem das Wechselspiel von Theorie, praktischem Erfahren und Reflektieren.
 
-Wir vertiefen an den zwei Tagen einige agile Techniken oder Praktiken. Wir lernen sie in ihrer Wirkungsweise kennen und sprechen dabei genau über die Voraussetzungen für die erfolgreiche Anwendung. Je nach Interesse geht können das sein:
+Wir sehen uns an den zwei Tagen Design Thinking, Scrum und Kanban genauer an, streifen den Lean Startup Ansatz im Verständnis und vertiefen einige der agilen Bausteine praktisch. Wir lernen diese in ihrer Wirkungsweise und ihren Voraussetzungen für die erfolgreiche Anwendung kennen. Je nach Interesse sind das vor allem:
+
+Agile Methoden Bausteine
 - Daily
 - Retrospektive
 - Taskboard
@@ -25,16 +29,16 @@ Wir vertiefen an den zwei Tagen einige agile Techniken oder Praktiken. Wir lerne
 - Lean Coffee
 - Open Space
 
-Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in der Hand begreifen. Da sie mit einer Reihe von neuen Begriffen verbunden sind, ist es dennoch nützlich, vorab schon einen Blick in die Original-Texte zu werfen. Wir werden im Workshop die Begriffe und Konzepte Schritt für Schritt nachvollziehen. Wenn Ihnen beim Lesen manche Aussagen unverständlich oder zweifelhaft erscheinen, notieren Sie sich Ihren Eindruck und wir tauschen uns vor Ort dazu aus.
+Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in der Hand begreifen. Da sie mit einer Reihe von neuen Begriffen verbunden sind, ist es dennoch nützlich, vorab schon einen Blick in die Original-Texte zu werfen. Wir werden im Workshop die Begriffe und Konzepte Schritt für Schritt nachvollziehen. Wenn Ihnen beim Lesen manche Aussagen unverständlich oder zweifelhaft erscheinen, notieren Sie sich Ihren Eindruck und wir tauschen uns im Seminar dazu aus.
 
 <img class="centered" title="Übungsbeispiel zu agilen Prinzipien" src="/assets/images/Agile-Game-Kanban-768x1024.jpg"><br>
 _Übungsbeispiel zu agilen Prinzipien_
 
-Agiles Arbeiten beruht vor allem auf bestimmten Werten und Prinzipien, die im Agilen Manifest beschrieben werden.
+Agilität beruht zunächst auf bestimmten Werten und Prinzipien, die stark verdichtet im Agilen Manifest zusammengefasst wurden.
 
 ### Agiles Manifest und Agile Prinzipien
 
-In verschiedenen Disziplinen haben sich unabhängig voneinander agile Ansätze herausgebildet. Vor allem in der Softwareentwicklung entstanden neuartige Arbeitsweisen, die man unter der Bezeichnung „agil“ einordnet. Verfechter unterschiedlicher Ansätze kamen 2001 in der Abgeschiedenheit der Rocky Mountains zusammen, um sich über die gemeinsamen Grundsätze klar zu werden. Sie haben ihre Ergebnisse in einem „Agilen Manifest“ festgehalten. Bis heute folgen überall auf der Welt Menschen diesen Grundsätzen in ihrer Arbeit an neuen Ideen, Services und Produkten.
+In verschiedenen Disziplinen haben sich unabhängig voneinander agile Arbeitsweisen herausgebildet. Vor allem in der Softwareentwicklung entstanden neuartige Prinzipien, die man unter der Bezeichnung „agil“ einordnet. Verfechter unterschiedlicher Ansätze kamen 2001 in der Abgeschiedenheit der Rocky Mountains zusammen, um sich über die gemeinsamen Grundsätze klar zu werden. Sie haben ihre Ergebnisse in einem „Agilen Manifest“ festgehalten. Bis heute folgen überall auf der Welt Menschen diesen Grundsätzen in ihrer Arbeit an neuen Ideen, Services und Produkten.
 
 ## Manifest für Agile Produktentwicklung
 
@@ -101,7 +105,7 @@ In regelmäßigen Abständen reflektiert das Team,<br>
 wie es effektiver werden kann und passt sein<br>
 Verhalten entsprechend an.
 
-Diese Prinzipien scheinen beim ersten Lesen schnell eingängig und logisch. In der Umsetzung brauchen sie einige Iterationen an Verständnis im agilen Team und bei dessen Stakeholdern, damit die erwünschte Wirkung: Agilität - wirklich erzielt wird.
+Diese Prinzipien scheinen beim ersten Lesen schnell eingängig und logisch. In der Umsetzung brauchen sie einige Iterationen an Verständnis im Team und bei dessen Stakeholdern, damit die erwünschte Wirkung wirklich erzielt wird.
 _Quelle: [http://agilemanifesto.org/iso/de/principles.html](http://agilemanifesto.org/iso/de/principles.html)_
 
 ## Agile Methoden und Arbeitsweisen
