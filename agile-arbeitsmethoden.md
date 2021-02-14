@@ -36,11 +36,11 @@ _Übungsbeispiel zu agilen Prinzipien_
 
 Agilität beruht zunächst auf bestimmten Werten und Prinzipien, die stark verdichtet im Agilen Manifest zusammengefasst wurden.
 
-### Agiles Manifest und Agile Prinzipien
+## Agiles Manifest und Agile Prinzipien
 
 In verschiedenen Disziplinen haben sich unabhängig voneinander agile Arbeitsweisen herausgebildet. Vor allem in der Softwareentwicklung entstanden neuartige Prinzipien, die man unter der Bezeichnung „agil“ einordnet. Verfechter unterschiedlicher Ansätze kamen 2001 in der Abgeschiedenheit der Rocky Mountains zusammen, um sich über die gemeinsamen Grundsätze klar zu werden. Sie haben ihre Ergebnisse in einem „Agilen Manifest“ festgehalten. Bis heute folgen überall auf der Welt Menschen diesen Grundsätzen in ihrer Arbeit an neuen Ideen, Services und Produkten.
 
-## Manifest für Agile Produktentwicklung
+### Manifest für Agile Produktentwicklung
 
 Wir erschließen bessere Wege, Produkte zu entwickeln,
 indem wir es selbst tun und anderen dabei helfen.
@@ -57,7 +57,7 @@ schätzen wir die Werte auf der linken Seite höher ein.
 Anstelle der allgemeineren Produktentwicklung stand ursprünglich Softwareentwicklung. Bei Produkten kann es sich um physische, digitale Produkte oder auch Dienstleistungen oder Prozesse handeln. 
 Quelle: [http://agilemanifesto.org/iso/de/manifesto.html](http://agilemanifesto.org/iso/de/manifesto.html)_
 
-## Prinzipien hinter dem Agilen Manifest
+### Prinzipien hinter dem Agilen Manifest
 
 Wir folgen diesen Prinzipien:
 
@@ -108,7 +108,7 @@ Verhalten entsprechend an.
 Diese Prinzipien scheinen beim ersten Lesen schnell eingängig und logisch. In der Umsetzung brauchen sie einige Iterationen an Verständnis im Team und bei dessen Stakeholdern, damit die erwünschte Wirkung wirklich erzielt wird.
 _Quelle: [http://agilemanifesto.org/iso/de/principles.html](http://agilemanifesto.org/iso/de/principles.html)_
 
-## Agile Methoden und Arbeitsweisen
+### Agile Methoden und Arbeitsweisen
 
 Diesen Prinzipien folgen verschiedene, jeweils auf unterschiedliche Zielsetzungen und Zielgruppen ausgerichtete Methoden, wie zum Beispiel
 
