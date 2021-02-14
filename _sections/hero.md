@@ -8,7 +8,7 @@ order: 1
 ---
 <header>
   <h2>Digital Wachsen</h2>
-  <p>Impulse für die digitale Kompetenz</p>
+  <p>Impulse für agiles Arbeiten und digitale Kompetenz</p>
 </header>
 
 {%- include menu.html -%}
