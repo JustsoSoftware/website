@@ -19,7 +19,7 @@ order: 4
 
   - Workshops und Coaching
   - Hands-on Einstieg in Design Thinking, Lean Startup, Agile Entwicklung
-  - Agiles Projekt-Setup
+  - [Agile Arbeitsmethoden](agile-arbeitsmethoden)
 
   [Mehr](lean-startup-design-thinking-und-andere-agile-methoden-schulungen)
   [Kontakt](#kontakt)
