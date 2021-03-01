@@ -166,7 +166,7 @@ Bevor jemand an Wachstum oder Skalierung denkt, sollte das Geschäftsmodell erwi
 
 Scrum ist wohl die bekannteste der agilen Methoden. Sie stammt aus der Entwicklung vor allem von Softwareprodukten. Inzwischen wird Scrum in vielen anderen Feldern in Projekten eingesetzt. Anhand dieser Methode lässt sich das Zusammenwirken von Prinzipien, Rollen und Prozessen gut nachvollziehen. Wir werden im Verlauf des Trainingsworkshops darauf eingehen.
 
-[![Scrum Guide](assets/images/Image-Scrum-Guide--768x319.png)](https://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-German.pdf)<br>
-_Titel der deutschen Fassung des Scrum Guide von 2016_
+[![Scrum Guide](assets/images/Image-Scrum-Guide--768x319.png)](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf)<br>
+_Titel der deutschen Fassung des Scrum Guide von 2020_
 
-Der [Scrum-Guide](https://www.scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-German.pdf) fasst kompakt auf 20 Seiten die wesentlichen Punkte der agilen Entwicklungsmethode zusammen. Er wird durch Jeff Sutherland und Ken Schwaber, die zu den Begründern von Scrum gehören, seit 20 Jahren weiterentwickelt. Anhand dieser Methode lässt sich das Zusammenwirken von agilen Prinzipien, Rollen und Prozessen gut nachvollziehen. Wir werden im Seminar einen Überblick zu dem Rahmenwerk geben. Genaueren Einblick gibt der Scrum Guide.
+Der [Scrum-Guide](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf) fasst kompakt auf gut 20 Seiten die wesentlichen Inhalte der agilen Entwicklungsmethode zusammen. Er wird durch Jeff Sutherland und Ken Schwaber, die zu den Begründern von Scrum gehören, seit 20 Jahren weiterentwickelt. Anhand dieser Methode lässt sich das Zusammenwirken von agilen Prinzipien, Rollen und Prozessen gut nachvollziehen. Wir werden im Seminar einen Überblick zu dem Rahmenwerk geben. Wichtiger als die Vollständigkeit wird dabei das Verständnis für Begriffe und das Zusammenspiel von Rollen, Ritualen und Prinzipien sein.  
