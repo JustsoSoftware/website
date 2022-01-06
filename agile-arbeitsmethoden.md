@@ -1,24 +1,25 @@
 ---
 layout: page
-title: Vorab-Lektüre für das Seminar "Agile Arbeitsmethoden"
+title: 2Tages-Seminar: Agile Arbeitsmethoden im Überblick
 redirect_from:
   - /agile-arbeitsmethoden/
 ---
 
-Die zwei Seminartage „Agile Arbeitsmethoden“ schaffen Verständnis für die begriffliche Wolke Agilität, für den erklingenden Ruf "agiler Arbeiten" und einen Überblick zu einigen wichtigen agilen Methoden.
+Im Seminar schaffen wir ein sicheres Verständnis für das Konzept von Agilität. Ihr werdet in Zukunft die Aufforderung "agiler arbeiten" mitsamt Untertönen gut einordnen können. Bestenfalls steigt ihr dann ins Gespräch ein, wie viel Agilität und welche Methodik der Situation angemessen sind. Dazu bekommt ihr in den zwei Tagen einen Überblick zu wichtigen agilen Methoden und erprobt selbst agile Werkzeuge und Praktiken.
 
 Agile Methoden: 
 - Design Thinking
+- Design Sprint
 - Scrum
 - Kanban
 - Lean Startup
 - Business Model Generation
 
-Bei weitergehendem Interesse ist jede dieser Methoden eine eigenständige Vertiefung Wert. Um die Methoden gut zu beherrschen, braucht es vor allem das Wechselspiel von Theorie, praktischem Erfahren und Reflektieren.
+Bei weitergehendem Interesse ist jede dieser Methoden eine eigenständige Vertiefung Wert. Um sie gut zu beherrschen, braucht es das Wechselspiel von Theorie, praktischem Erfahren und Reflektieren.
 
-Wir sehen uns an den zwei Tagen Design Thinking, Scrum und Kanban genauer an, streifen den Lean Startup Ansatz im Verständnis und vertiefen einige der agilen Bausteine praktisch. Wir lernen diese in ihrer Wirkungsweise und ihren Voraussetzungen für die erfolgreiche Anwendung kennen. Je nach Interesse sind das vor allem:
+Wir sehen uns an den zwei Tagen Design Thinking, Scrum und Kanban genauer an, streifen bei Interesse den Lean Startup Ansatz im Verständnis und vertiefen einige der agilen Bausteine praktisch. Wir lernen diese in ihrer Wirkungsweise und ihren Voraussetzungen kennen. Je nach Interesse sind das vor allem:
 
-Agile Methoden Bausteine
+Agile Werkzeuge und Praktiken
 - Daily
 - Retrospektive
 - Taskboard
@@ -26,15 +27,18 @@ Agile Methoden Bausteine
 - Protoyping
 - Planning Poker
 - User Story
+
+Agile Event Formate
 - Lean Coffee
 - Open Space
+- Fishbowl
 
-Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in der Hand begreifen. Da sie mit einer Reihe von neuen Begriffen verbunden sind, ist es dennoch nützlich, vorab schon einen Blick in die Original-Texte zu werfen. Wir werden im Workshop die Begriffe und Konzepte Schritt für Schritt nachvollziehen. Wenn Ihnen beim Lesen manche Aussagen unverständlich oder zweifelhaft erscheinen, notieren Sie sich Ihren Eindruck und wir tauschen uns im Seminar dazu aus.
+Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in der Hand begreifen. Übung, spielerisches Ausprobieren werden daher der Schwerpunkt sein. Zum leichteren Einstieg empfehle ich, vorab schon einen Blick in die Original-Texte zu werfen und einige Videos anzusehen. Wenn beim Lesen Aussagen unverständlich oder zweifelhaft erscheinen, notiere dir Fragen oder deinen Eindruck, wir tauschen uns im Seminar dazu aus.
 
-<img class="centered" title="Übungsbeispiel zu agilen Prinzipien" src="/assets/images/Agile-Game-Kanban-768x1024.jpg"><br>
+<img class="centered" title="Übungsbeispiel zu agilen Prinzipien" src="/assets/images/Agile-Game-Kanban-600x800.jpg"><br>
 _Übungsbeispiel zu agilen Prinzipien_
 
-Agilität beruht zunächst auf bestimmten Werten und Prinzipien, die stark verdichtet im Agilen Manifest zusammengefasst wurden.
+Agilität beruht auf Werten und Prinzipien, die stark verdichtet im Agilen Manifest zusammengefasst wurden. 
 
 ## Agiles Manifest und Agile Prinzipien
 
@@ -105,20 +109,18 @@ In regelmäßigen Abständen reflektiert das Team,<br>
 wie es effektiver werden kann und passt sein<br>
 Verhalten entsprechend an.
 
-Diese Prinzipien scheinen beim ersten Lesen schnell eingängig und logisch. In der Umsetzung brauchen sie einige Iterationen an Verständnis im Team und bei dessen Stakeholdern, damit die erwünschte Wirkung wirklich erzielt wird.
+Diese Prinzipien scheinen beim ersten Lesen schnell eingängig und logisch. In der Umsetzung brauchen sie jedoch einige Lernschleifen im Team und bei Stakeholdern, damit die erwünschte Wirkung erzielt wird. Agilität funktioniert nicht ohne diese Werte, gleich welche Methodik verfolgt wird. 
 _Quelle: [http://agilemanifesto.org/iso/de/principles.html](http://agilemanifesto.org/iso/de/principles.html)_
 
 ### Agile Methoden und Arbeitsweisen
 
-Diesen Prinzipien folgen verschiedene, jeweils auf unterschiedliche Zielsetzungen und Zielgruppen ausgerichtete Methoden, wie zum Beispiel
-
-- **Design Thinking**: Strukturierte Herangehensweise und Sammlung von Techniken zur kreativen Lösung komplexer Herausforderungen
-- **Design Sprint** ist ein fünftägiger Prozess mit dem Ziel, ein Produkt oder die Weiterentwicklung eines Produktes in kürzester Zeit (3-5 Tage) in einem Team und unter Zuhilfenahme von User-Input zu testen.
+- **Design Thinking**: Strukturierte Herangehensweise und Sammlung von Werkzeugen zur kreativen, kundenorientierten Lösung komplexer Gestaltungsaufgaben
+- **Design Sprint**: 3-5tägiger Prozess mit dem Ziel, ein innovatives Produkt oder die Weiterentwicklung eines Produktes in kürzester Zeit (3-5 Tage) in einem Team und unter Zuhilfenahme von Nutzerfeedback zu testen.
 - **Lean Startup**: Entwicklung von neuartigen Produkten und Services durch experimentelle Validierung von Ideen bis zu einem reproduzierbaren Geschäftsmodell
 - **Scrum**: Methodisches Rahmenwerk zur iterativen Produktentwicklung durch sich selbst organisierende Teams
 - **Kanban**: Methode zur Steuerung und Optimierung von Produktions- oder Serviceprozessen
 
-Auch wenn die agilen Prinzipien eine gemeinsame Wurzel sind, stützt sich jede Methode auf eigene Prozesse und Arbeitsweisen. Teile der dabei verwendeten Routinen und Instrumente werden inzwischen aus dem ursprünglichen Rahmen herausgelöst und für sich genommen als Unterstützung für eine agilere Arbeitsweise oder New Work verwendet.
+Auch wenn die agilen Prinzipien die gemeinsame Wurzel dieser Methoden sind, folgt jede eigenen Prozessen und Arbeitsweisen. Teile der dabei verwendeten Routinen und Instrumente werden inzwischen aus dem ursprünglichen Rahmen herausgelöst und für sich genommen als Unterstützung für eine agilere Arbeitsweise oder New Work verwendet.
 
 Dazu zählen das Daily Stand-up, das Taskboard oder die Retrospektive. Ein Stand-up ist auf den ersten Blick gesehen eine Gruppe von Menschen, die sich regelmäßig stehend über den erreichten Stand und die nächsten Schritte in einem Projekt austauscht. Damit aus einem solchen Element Agilität erwachsen kann, ist es sinnvoll, seinen Platz in ein oder zwei der agilen Methoden besser zu verstehen. Das werden wir im Verlauf des Workshops tun.
 
