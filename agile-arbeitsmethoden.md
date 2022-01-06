@@ -192,9 +192,9 @@ Eine knappere, deutsche Scrum Erklärung findet ihr in dem Video 3:33 min: https
 
 ## Kanban
 
-Kanban ist eine aus Japan stammende lean Methodik für die Optimierung und Verschlankung von Prozessketten. Kanban fand ursprünglichin Fertigungs- und Logistikprozessen Anwendung, zwischenzeitlich nutzen viele Service- und Kreativbereiche Elemente der Methodik. Im Kern optimiert Kanban die Wertschöpfung eines Prozesses, in dem evidenzbasiert gelernt und iterativ ein gleichmäßiger, störungsfreier Durchfluss der einzelnen Aufträge durch die Prozessstufen geschaffen wird.
+Kanban ist eine aus Japan stammende lean Methodik für die Optimierung und Verschlankung von Prozessketten. Kanban fand ursprünglich in Fertigungs- und Logistikprozessen Anwendung. Zwischenzeitlich nutzen auch Service- und Kreativbereiche Elemente der Methodik. Im Kern optimiert Kanban die Wertschöpfung eines Prozesses, in dem evidenzbasiert gelernt und iterativ ein gleichmäßiger, störungsfreier Durchfluss der einzelnen Aufträge durch die Prozessstufen erzielt wird.
 
-Anfänge der übrigen agilen Methoden basierten stark auf den Grundelementen von Kanban. Häufig verwendet Scrum in der Softwareentwicklung das zentrale Kanban-Board, die Kanban-Karten und entlehnt Kennziffern, wie Work in Progress und Durchlaufzeiten.
+Anfänge der übrigen agilen Methoden basierten stark auf den Grundelementen von Kanban. Häufig verwendet Scrum das zentrale Kanban-Board, die Kanban-Karten und entlehnt Kennziffern, wie Work in Progress und Durchlaufzeiten.
 
 Bei stärkerem Interesse empfehle ich den Kanban Guide for Scrum Teams. Hier zum Download https://kanbanguides.org/ in englischer Sprache.
 
