@@ -8,12 +8,12 @@ redirect_from:
 Im Seminar schaffen wir ein sicheres Verständnis für das Konzept von Agilität. Ihr werdet in Zukunft die Aufforderung "agiler arbeiten" mitsamt Untertönen gut einordnen können. Bestenfalls steigt ihr dann ins Gespräch ein, wie viel Agilität und welche Methodik der Situation angemessen sind. Dazu bekommt ihr in den zwei Tagen einen Überblick zu wichtigen agilen Methoden und erprobt selbst agile Werkzeuge und Praktiken.
 
 Agile Methoden 
-- Design Thinking
+- [Design Thinking](#Design Thinking)
 - Design Sprint
-- Scrum
-- Kanban
-- Lean Startup
+- [Lean Startup](#Lean Startup)
+- [Scrum](#Scrum)
 - Business Model Generation
+- [Kanban](#kanban)
 
 Bei weitergehendem Interesse ist jede dieser Methoden eine eigenständige Vertiefung Wert. Um sie gut zu beherrschen, braucht es das Wechselspiel von Theorie, praktischem Erfahren und Reflektieren.
 
@@ -40,7 +40,7 @@ _Übungsbeispiel zu agilen Prinzipien_
 
 Agilität beruht auf Werten und Prinzipien, die stark verdichtet im Agilen Manifest zusammengefasst wurden. 
 
-## Agiles Manifest und Agile Prinzipien
+## Agilität
 
 In verschiedenen Disziplinen haben sich unabhängig voneinander agile Arbeitsweisen herausgebildet. Vor allem in der Softwareentwicklung entstanden neuartige Prinzipien, die man unter der Bezeichnung „agil“ einordnet. Verfechter unterschiedlicher Ansätze kamen 2001 in der Abgeschiedenheit der Rocky Mountains zusammen, um sich über die gemeinsamen Grundsätze klar zu werden. Sie haben ihre Ergebnisse in einem „Agilen Manifest“ festgehalten. Bis heute folgen überall auf der Welt Menschen diesen Grundsätzen in ihrer Arbeit an neuen Ideen, Services und Produkten.
 
@@ -130,7 +130,9 @@ Dazu zählen das Daily Stand-up, das Taskboard oder die Retrospektive. Ein Stand
 _Typische Muster agiler Arbeitsweisen_
 
 
-## Design Thinking ist die Methode der Wahl …
+## Design Thinking
+
+### Design Thinking ist Methode der Wahl
  
 - Zur Lösung für komplexe Aufgabe- oder Problemstellungen in unübersichtlichen Kontexten;
 - Für die Entwicklung von Innovationen mit einer besonderen Attraktivität und hohem praktischen Wert für die Nutzer
@@ -141,7 +143,7 @@ Der besondere Erfolg des Design Thinking entsteht durch die gleichgewichtige Ber
 ![Design Thinking: Person fertig Skizzen für App auf Papier an](assets/images/IMG_0197-768x512.jpg)<br>
 _Design Thinking: Person fertig Skizzen für App auf Papier an_
 
-## Was ist Design Thinking?
+### Was ist Design Thinking?
 
 Design Thinking ist eine kreative Arbeitsmethode zur innovativen Lösung komplexer Fragestellungen, die sich auf drei Säulen stützt:
 
@@ -163,7 +165,7 @@ In der amerikanischen Reportage bekommt man zusätzlich Live-Eindrücke von IDEO
 Ein kurzes, deutschsprachiges Video, in dem die Inhalte der Prozessstufen erklärt werden: https://youtu.be/O6Dl8ri9Lik
 
 
-## Die Grundhaltung im Lean Startup
+## Lean Startup
 
 Wer sich der Umsetzung einer bis dahin unbekannten Geschäftsidee verschrieben hat und das hohe persönliche Risiko einer Unternehmensgründung auf der Basis eines innovativen Produktes eingeht, verfügt in der Regel über eine hochmotivierte Persönlichkeit und identifiziert sich stark mit der jeweiligen Idee.
 
