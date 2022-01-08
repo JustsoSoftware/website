@@ -35,7 +35,7 @@ Agile Event Formate
 
 Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in der Hand begreifen. Übung, spielerisches Ausprobieren werden daher Seminarschwerpunkt sein. Zum leichteren Einstieg empfehle ich, vorab schon einen Blick in die Original-Texte zu werfen und einige Videos anzusehen. Wenn beim Lesen etwas unverständlich oder zweifelhaft erscheint, notiere dir Fragen oder deinen Eindruck, wir tauschen uns im Seminar dazu aus.
 
-<img class="centered" title="Übungsbeispiel zu agilen Prinzipien" src="/assets/images/Agile-Game-Kanban-600x800.jpg"><br>
+<img class="centered" title="Übungsbeispiel zu agilen Prinzipien" src="/assets/images/Agile-Game-Kanban-768x1024.jpg" style="max-width: 600px"><br>
 _Übungsbeispiel zu agilen Prinzipien_
 
 Agilität beruht auf Werten und Prinzipien, die stark verdichtet im Agilen Manifest zusammengefasst wurden. 
