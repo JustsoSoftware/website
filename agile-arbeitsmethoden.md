@@ -7,7 +7,8 @@ redirect_from:
 
 Im Seminar schaffen wir ein sicheres Verständnis für das Konzept von Agilität. Ihr werdet in Zukunft die Aufforderung "agiler arbeiten" mitsamt Untertönen gut einordnen können. Bestenfalls steigt ihr dann ins Gespräch ein, wie viel Agilität und welche Methodik der Situation angemessen sind. Dazu bekommt ihr in den zwei Tagen einen Überblick zu wichtigen agilen Methoden und erprobt selbst agile Werkzeuge und Praktiken.
 
-Agile Methoden 
+Agile Methoden
+
 - [Design Thinking](#design-thinking)
 - Design Sprint
 - [Lean Startup](#lean-startup)
@@ -20,6 +21,7 @@ Bei weitergehendem Interesse ist jede dieser Methoden eine eigenständige Vertie
 Wir sehen uns an den zwei Tagen Design Thinking, Scrum und Kanban genauer an, streifen bei Interesse den Lean Startup Ansatz und vertiefen einige der agilen Bausteine in praktischen Übungen. Wir lernen diese in ihrer Wirkungsweise und ihren Voraussetzungen kennen. Je nach Interesse sind das:
 
 Agile Werkzeuge und Praktiken
+
 - Daily
 - Retrospektive
 - Taskboard
@@ -29,6 +31,7 @@ Agile Werkzeuge und Praktiken
 - User Story
 
 Agile Event Formate
+
 - Lean Coffee
 - Open Space
 - Fishbowl
@@ -38,7 +41,7 @@ Agile Methoden lassen sich besser durch eigenes Erleben, als mit einem Buch in d
 <img class="centered" title="Übungsbeispiel zu agilen Prinzipien" src="/assets/images/Agile-Game-Kanban-768x1024.jpg" style="max-width: 600px"><br>
 _Übungsbeispiel zu agilen Prinzipien_
 
-Agilität beruht auf Werten und Prinzipien, die stark verdichtet im Agilen Manifest zusammengefasst wurden. 
+Agilität beruht auf Werten und Prinzipien, die stark verdichtet im Agilen Manifest zusammengefasst wurden.
 
 ## Agilität
 
@@ -50,16 +53,13 @@ Wir erschließen bessere Wege, Produkte zu entwickeln,
 indem wir es selbst tun und anderen dabei helfen.
 Durch diese Tätigkeit haben wir diese Werte zu schätzen gelernt:
 
-> **Individuen und Interaktionen** mehr als Prozesse und Werkzeuge<br>
-> **Funktionierende Produkte** mehr als umfassende Dokumentation<br>
-> **Zusammenarbeit mit dem Kunden** mehr als Vertragsverhandlung<br>
-> **Reagieren auf Veränderung** mehr als das Befolgen eines Plans
-  
+> **Individuen und Interaktionen** mehr als Prozesse und Werkzeuge<br> > **Funktionierende Produkte** mehr als umfassende Dokumentation<br> > **Zusammenarbeit mit dem Kunden** mehr als Vertragsverhandlung<br> > **Reagieren auf Veränderung** mehr als das Befolgen eines Plans
+
 Das heißt, obwohl wir die Werte auf der rechten Seite wichtig finden,
 schätzen wir die Werte auf der linken Seite höher ein.
 
-Anstelle der allgemeineren Produktentwicklung stand ursprünglich Softwareentwicklung. Bei Produkten kann es sich um physische, digitale Produkte oder auch Dienstleistungen oder Prozesse handeln. 
-Quelle: [http://agilemanifesto.org/iso/de/manifesto.html](http://agilemanifesto.org/iso/de/manifesto.html)_
+Anstelle der allgemeineren Produktentwicklung stand ursprünglich Softwareentwicklung. Bei Produkten kann es sich um physische, digitale Produkte oder auch Dienstleistungen oder Prozesse handeln.
+Quelle: [http://agilemanifesto.org/iso/de/manifesto.html](http://agilemanifesto.org/iso/de/manifesto.html)\_
 
 ### Prinzipien hinter dem Agilen Manifest
 
@@ -113,7 +113,6 @@ _Quelle: [http://agilemanifesto.org/iso/de/principles.html](http://agilemanifest
 
 Diese Prinzipien scheinen beim Lesen schnell eingängig und logisch. In der Umsetzung brauchen sie jedoch einige Lernschleifen im Team und bei Stakeholdern, damit die erwünschte Wirkung erzielt wird. Agilität funktioniert nicht ohne diese Werte, gleich welche Methodik verfolgt wird. Ich habe einmal gelesen, Agilität ohne die Werte ist wie Kochen ohne Gewürze. (Leider weiß ich nicht mehr wo das war.)
 
-
 ### Agile Methoden Definitionen
 
 - **Design Thinking**: Strukturierte Herangehensweise und Sammlung von Werkzeugen zur kreativen, kundenorientierten Lösung komplexer Gestaltungsaufgaben
@@ -129,17 +128,16 @@ Dazu zählen das Daily Stand-up, das Taskboard oder die Retrospektive. Ein Stand
 ![Typische Muster agiler Arbeitsweisen](assets/images/Workshop-Collage-768x512.png)<br>
 _Typische Muster agiler Arbeitsweisen_
 
-
 ## Design Thinking
 
 ### Design Thinking ist Methode der Wahl
- 
+
 - Zur Lösung für komplexe Aufgabe- oder Problemstellungen in unübersichtlichen Kontexten;
 - Für die Entwicklung von Innovationen mit einer besonderen Attraktivität und hohem praktischen Wert für die Nutzer
 - Zur grundsätzlichen Neugestaltung von Produkten, Dienstleistungen oder Veranstaltungen
 
 Der besondere Erfolg des Design Thinking entsteht durch die gleichgewichtige Berücksichtigung menschlicher Bedürfnisse neben den sonst meist im Vordergrund stehenden Zielen ökonomischer Erfolg und technischer Machbarkeit. Soll die Benutzung eines Produktes oder eines Serviceangebots Freude bereiten und den Nutzern Identifikationsmöglichkeiten bieten, dann kommt es bei ihrer Entwicklung auf ein besonders hohes Einfühlungsvermögen für den Personenkreis an. Empathie ist der Schlüssel für einen guten Design Thinking Prozess. Sie macht auch die besondere Eignung der Methode für soziale Gestaltungsaufgaben aus, wie innerbetriebliche Kommunikations- und Informationsangebote oder auch kommunale Verkehrslösungen, bei denen die Interessen von Fußgängern, Rad- und Autofahrern typischerweise zuwiderlaufen.
- 
+
 ![Design Thinking: Person fertig Skizzen für App auf Papier an](assets/images/IMG_0197-768x512.jpg)<br>
 _Design Thinking: Person fertig Skizzen für App auf Papier an_
 
@@ -157,13 +155,13 @@ Im Unterschied zum weit verbreiteten Verständnis von Design als der Gestaltung 
 
 Wer weiter eintauchen möchte, dem empfehle ich:
 HPI schriftliche Einführung
-- **Überblick** https://hpi.de/school-of-design-thinking/design-thinking/was-ist-design-thinking.html
-- **Prozess** https://hpi.de/school-of-design-thinking/design-thinking/hintergrund/design-thinking-prozess.html
 
-Ein anschauliches Anwendungsbeispiel erklärt ein Airbus Design-Thinking-Team: Video https://youtu.be/RA-PrfiSYf0 (Dauer 5:27 min, ab 4:00 kommen Würdigungen)
-In der amerikanischen Reportage bekommt man zusätzlich Live-Eindrücke von IDEO: https://youtu.be/M66ZU2PCIcM (Dauer 8 min)
-Ein kurzes, deutschsprachiges Video, in dem die Inhalte der Prozessstufen erklärt werden: https://youtu.be/O6Dl8ri9Lik
+- **Überblick** [https://hpi.de/school-of-design-thinking/design-thinking/was-ist-design-thinking.html](https://hpi.de/school-of-design-thinking/design-thinking/was-ist-design-thinking.html)
+- **Prozess** [https://hpi.de/school-of-design-thinking/design-thinking/hintergrund/design-thinking-prozess.html](https://hpi.de/school-of-design-thinking/design-thinking/hintergrund/design-thinking-prozess.html)
 
+Ein anschauliches Anwendungsbeispiel erklärt ein Airbus Design-Thinking-Team: [Video (Dauer 5:27 min, ab 4:00 kommen Würdigungen)](https://youtu.be/RA-PrfiSYf0)
+In der amerikanischen Reportage bekommt man zusätzlich [Live-Eindrücke von IDEO (Dauer 8 min)](https://youtu.be/M66ZU2PCIcM)
+Ein [kurzes, deutschsprachiges Video](https://youtu.be/O6Dl8ri9Lik), in dem die Inhalte der Prozessstufen erklärt werden.
 
 ## Lean Startup
 
@@ -185,12 +183,11 @@ Scrum ist die bekannteste der agilen Methoden. Das Scrum Framework diente anfang
 [![Scrum Guide](assets/images/Image-Scrum-Guide--768x319.png)](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf)<br>
 _Titel der deutschen Fassung des Scrum Guide von 2020_
 
-Der [Scrum-Guide](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf) fasst kompakt auf gut 20 Seiten die Grundregeln der agilen Entwicklungsmethode zusammen. Er wird durch Jeff Sutherland und Ken Schwaber, die zu den Begründern von Scrum gehören, seit 20 Jahren weiterentwickelt. Anhand dieser Methode lässt sich das Zusammenwirken von agilen Prinzipien, Rollen und Prozessen gut nachvollziehen. Ich werden im Seminar nur einen kurzen Überblick zu dem Rahmenwerk geben. Wichtiger als Vollständigkeit ist das Verständnis für Begriffe und das Zusammenspiel von Rollen, Ritualen und Prinzipien.  
+Der [Scrum-Guide](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-German.pdf) fasst kompakt auf gut 20 Seiten die Grundregeln der agilen Entwicklungsmethode zusammen. Er wird durch Jeff Sutherland und Ken Schwaber, die zu den Begründern von Scrum gehören, seit 20 Jahren weiterentwickelt. Anhand dieser Methode lässt sich das Zusammenwirken von agilen Prinzipien, Rollen und Prozessen gut nachvollziehen. Ich werden im Seminar nur einen kurzen Überblick zu dem Rahmenwerk geben. Wichtiger als Vollständigkeit ist das Verständnis für Begriffe und das Zusammenspiel von Rollen, Ritualen und Prinzipien.
 
 Zum schnellen Video Einstieg:
-Gutes, kompaktes Video zu Scrum in englisch 12 min: https://youtu.be/Z9QbYZh1YXY 
-Eine knappere, deutsche Scrum Erklärung findet ihr in dem Video 3:33 min: https://youtu.be/Ibz9STVjtzI 
-
+Gutes, kompaktes [Video zu Scrum in englisch (12 min)](https://youtu.be/Z9QbYZh1YXY).
+Eine knappere, deutsche Scrum Erklärung findet ihr in [diesem Video (3:33 min)](https://youtu.be/Ibz9STVjtzI).
 
 ## Kanban
 
@@ -198,6 +195,6 @@ Kanban ist eine aus Japan stammende lean Methodik für die Optimierung und Versc
 
 Anfänge der übrigen agilen Methoden basierten stark auf den Grundelementen von Kanban. Häufig verwendet Scrum das zentrale Kanban-Board, die Kanban-Karten und entlehnt Kennziffern, wie Work in Progress und Durchlaufzeiten.
 
-Bei stärkerem Interesse empfehle ich den Kanban Guide for Scrum Teams. Hier zum Download https://kanbanguides.org/ in englischer Sprache.
+Bei stärkerem Interesse empfehle ich den Kanban Guide for Scrum Teams. [Hier zum Download](https://kanbanguides.org/) in englischer Sprache.
 
-Schneller Video-Einstieg: https://youtu.be/ndWPFk7GR8k von it-agile 7 min.
+Schneller [Video-Einstieg von it-agile (7 min)](https://youtu.be/ndWPFk7GR8k).
