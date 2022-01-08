@@ -10,7 +10,7 @@ Im Seminar schaffen wir ein sicheres Verständnis für das Konzept von Agilität
 Agile Methoden 
 - [Design Thinking](#Design Thinking)
 - Design Sprint
-- [Lean Startup](#Lean Startup)
+- [Lean Startup](#lean-startup)
 - [Scrum](#Scrum)
 - Business Model Generation
 - [Kanban](#kanban)
