@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2 Tages-Seminar: Agilität und agile Methoden im Überblick
+title: Seminar Agilität und agile Methoden im Überblick
 redirect_from:
   - /agile-arbeitsmethoden/
 ---
