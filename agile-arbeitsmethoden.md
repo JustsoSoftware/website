@@ -8,7 +8,7 @@ redirect_from:
 Im Seminar schaffen wir ein sicheres Verständnis für das Konzept von Agilität. Ihr werdet in Zukunft die Aufforderung "agiler arbeiten" mitsamt Untertönen gut einordnen können. Bestenfalls steigt ihr dann ins Gespräch ein, wie viel Agilität und welche Methodik der Situation angemessen sind. Dazu bekommt ihr in den zwei Tagen einen Überblick zu wichtigen agilen Methoden und erprobt selbst agile Werkzeuge und Praktiken.
 
 Agile Methoden 
-- [Design Thinking](#Design Thinking)
+- [Design Thinking](#design-thinking)
 - Design Sprint
 - [Lean Startup](#lean-startup)
 - [Scrum](#Scrum)
