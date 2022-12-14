@@ -8,8 +8,8 @@ redirect_from:
 
 Angaben gemäß § 5 TMG:
 
-Justso GmbH<br>
-Geschäftsführerin: Dr. Christiane Gerigk
+Justso GmbH i.L.<br>
+Liquidatorin: Dr. Christiane Gerigk
 
 Praunheimer Landstraße 95<br>
 60488 Frankfurt am Main<br>
