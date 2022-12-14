@@ -8,7 +8,7 @@ redirect_from:
 
 Angaben gemäß § 5 TMG:
 
-Justso GmbH<br>
+Justso GmbH i.L.<br>
 Geschäftsführerin: Dr. Christiane Gerigk
 
 Praunheimer Landstraße 95<br>
